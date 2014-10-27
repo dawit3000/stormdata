@@ -1,8 +1,8 @@
 
 Hello!
 
-The best way to download the attached CSV file is to readit from your computer (using R), with read.table; use sep=";" and header=TRUE. 
-the URL for reading from your computer is: 
+The best way to download the attached CSV file is to highlight, cut and paste it in your EXCEL, just in one colum. When you read it to your R,use sep=";" and  header=TRUE. You will get two 48 by 2 dim dataframe. 
+The URL for reading/copying is: 
 
 ```{r}
 
